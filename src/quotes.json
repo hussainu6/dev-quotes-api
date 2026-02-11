@@ -1,0 +1,12 @@
+[
+  {"id":1,"quote":"Code is like humor. When you have to explain it, it's bad.","author":"Cory House"},
+  {"id":2,"quote":"First, solve the problem. Then, write the code.","author":"John Johnson"},
+  {"id":3,"quote":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.","author":"Martin Fowler"},
+  {"id":4,"quote":"The best error message is the one that never shows up.","author":"Thomas Fuchs"},
+  {"id":5,"quote":"Talk is cheap. Show me the code.","author":"Linus Torvalds"},
+  {"id":6,"quote":"Programming isn't about what you know; it's about what you can figure out.","author":"Chris Pine"},
+  {"id":7,"quote":"The only way to learn a new programming language is by writing programs in it.","author":"Dennis Ritchie"},
+  {"id":8,"quote":"Simplicity is the soul of efficiency.","author":"Austin Freeman"},
+  {"id":9,"quote":"Make it work, make it right, make it fast.","author":"Kent Beck"},
+  {"id":10,"quote":"The best way to predict the future is to implement it.","author":"Alan Kay"}
+]
